@@ -37,8 +37,8 @@ Rocket.Chat users across multiple time zones need a way to schedule messages for
 Below are screenshots demonstrating the message scheduling feature:
 
 1. **Scheduling UI Button**: The scheduling button in the message composer, accessible next to the send button.
-   ![Scheduling Button](https://via.place![Uploading ChatGPT Image Jul 30, 2025, 01_02_17 PM.png…]()
-holder.com/600x400.png?text=Scheduling+Button)
+   ![Scheduling Button]![IMG_3818](https://github.com/user-attachments/assets/7eb2ee78-6642-4aa6-86f1-236b73b4b899)
+()
 
 2. **Schedule Composer Modal**: Clicking the scheduling button opens the `ScheduleComposerModal`, allowing users to select a date and time for message delivery.
    ![Schedule Composer Modal](https://via.placeholder.com/600x400.png?text=Schedule+Composer+Modal)
