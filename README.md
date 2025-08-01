@@ -63,31 +63,38 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 1. **Scheduling Button (Clock Icon)**  
    Located next to the send button in the message composer.  
-   ![Scheduling Button](https://github.com/user-attachments/assets/7eb2ee78-6642-4aa6-86f1-236b73b4b899)
+   ![Scheduling Button](<img width="923" height="111" alt="Scheduling Button (Clock Icon)" src="https://github.com/user-attachments/assets/342b5f1a-3bc0-466a-8c3f-cfba1ee3955b" />
+)
 
 2. **Schedule Composer Modal**  
    Lets users pick a date and time for message delivery.  
-   ![Schedule Composer Modal](https://via.placeholder.com/600x400.png?text=Schedule+Composer+Modal)
+   ![Schedule Composer Modal](<img width="636" height="382" alt="Schedule Composer Modal" src="https://github.com/user-attachments/assets/0bb594e9-f8ec-41ee-a438-15e857ce571d" />
+)
 
 3. **Success Toast Notification**  
    Confirms successful scheduling.  
-   ![Success Toast Notification](https://via.placeholder.com/600x400.png?text=Success+Toast+Notification)
+   ![Success Toast Notification](<img width="322" height="81" alt="Success Toast Notification" src="https://github.com/user-attachments/assets/c303a82a-f27b-4d82-81c7-60811a9d3667" />
+)
 
 4. **API Success Payload**  
    Response payload from `chat.scheduleMessage` API.  
-   ![API Success Payload](https://via.placeholder.com/600x400.png?text=API+Success+Payload)
+   ![API Success Payload](<img width="699" height="269" alt="API Success Payload" src="https://github.com/user-attachments/assets/d008d2c1-336a-405c-9619-f6de7809ad05" />
+)
 
 5. **Scheduled Messages User Menu Item**  
    Allows users to access the Scheduled Messages page directly from the user dropdown menu. 
-   ![Scheduled Messages Page](https://via.placeholder.com/600x400.png?text=Scheduled+Messages+Page)
+   ![Scheduled Messages Page](<img width="249" height="455" alt="Scheduled Messages User Menu Item" src="https://github.com/user-attachments/assets/f10da54d-086e-4c96-8f66-f22131d79451" />
+)
 
 6. **Scheduled Messages Page**  
    Manage, edit, and cancel scheduled messages.  
-   ![Scheduled Messages Page](https://via.placeholder.com/600x400.png?text=Scheduled+Messages+Page)
+   ![Scheduled Messages Page](<img width="1678" height="609" alt="Scheduled Messages Page" src="https://github.com/user-attachments/assets/09cfe891-b689-4d88-af8e-689aa2bb019d" />
+)
 
 7. **Delivered Message**  
    The scheduled message appears in the chat at the scheduled time.  
-   ![Sent Scheduled Message](https://via.placeholder.com/600x400.png?text=Sent+Scheduled+Message)
+   ![Sent Scheduled Message](<img width="1353" height="818" alt="Delivered Message" src="https://github.com/user-attachments/assets/134c71d6-7d9f-4ebf-89c8-3b638e1d967e" />
+)
 
 ### 🎬 Demo Video
 
