@@ -57,9 +57,9 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 ---
 
-## 🎥 Demo
+##  Demo
 
-### 📸 Screenshots
+### Sneak Peak
 
 1. **Scheduling Button (Clock Icon)**  
    Located next to the send button in the message composer.  
@@ -99,18 +99,18 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 ## 📈 Project Status
 
-### ✅ Completed
+### Completed
 
 - Full scheduling flow (UI + API + DB) implemented and **merged upstream**
 - Cron job and error handling are functional
 - UI/UX is consistent with Rocket.Chat design
 
-### ❌ Not Implemented
+###  Not Implemented
 
 - **Thread Support**: Scheduling messages inside threads
 - **Image Attachments**: Support for scheduling messages with image/file uploads
 
-### 🔧 Pending
+### 🔧 Enhancements
 
 - UX polish and additional scheduling options
 
@@ -138,14 +138,14 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 Huge thanks to my mentors for their support, timely reviews, and guidance throughout the program.
 
-- **Abhinav Kumar** – [GitHub](https://github.com/Abhinav-Kumar-Dev) | [Rocket.Chat](https://open.rocket.chat/direct/abhinav.kumar)
-- **Ricardo Garim** – [GitHub](https://github.com/ricardogarim) | [Rocket.Chat](https://open.rocket.chat/direct/ricardo.garim)
+- **Abhinav Kumar** – [GitHub](https://github.com/abhinavkrin) | [Rocket.Chat](https://open.rocket.chat/direct/SZcixYLoZ9qgrcX2orJPSiuomhJYqeEYjX)
+- **Ricardo Garim** – [GitHub](https://github.com/ricardogarim) | [Rocket.Chat](https://open.rocket.chat/direct/6YHMKWJb3wYH9zAS2rJPSiuomhJYqeEYjX)
 
 ---
 
 ## 🔗 Useful Links
 
-- 📄 [Project Proposal](https://docs.google.com/document/d/1ODAdD0BKT3o8NvSaxx38VfGNjYDipjMpZv73FaXwv2k/edit?usp=sharing)  
+- 📄 [Project Proposal](https://docs.google.com/document/d/1ODAdD0BKT3o8NvSaxx38VfGNjYDipjMpZv73FaXwv2k/edit?usp=sharing) - The proposal that got me selected for GSoC 2025 
 - 💻 [Rocket.Chat Repo](https://github.com/RocketChat/Rocket.Chat)  
 - 🌐 [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2025/projects/NoRi8SdE)
 
