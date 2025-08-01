@@ -154,7 +154,6 @@ If you found this useful, consider giving this repo a ⭐ for good karma!
 
 ## 💬 Connect with Me
 
-| Field | Info |
 | --- | --- |
 | **Student** | Thotsem Jajo |
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
