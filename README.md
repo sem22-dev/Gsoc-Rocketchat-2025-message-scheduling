@@ -77,11 +77,15 @@ Rocket.Chat users across different time zones often need to deliver messages at 
    Response payload from `chat.scheduleMessage` API.  
    ![API Success Payload](https://via.placeholder.com/600x400.png?text=API+Success+Payload)
 
-5. **Scheduled Messages Page**  
+5. **Scheduled Messages User Menu Item**  
+   Allows users to access the Scheduled Messages page directly from the user dropdown menu. 
+   ![Scheduled Messages Page](https://via.placeholder.com/600x400.png?text=Scheduled+Messages+Page)
+
+6. **Scheduled Messages Page**  
    Manage, edit, and cancel scheduled messages.  
    ![Scheduled Messages Page](https://via.placeholder.com/600x400.png?text=Scheduled+Messages+Page)
 
-6. **Delivered Message**  
+7. **Delivered Message**  
    The scheduled message appears in the chat at the scheduled time.  
    ![Sent Scheduled Message](https://via.placeholder.com/600x400.png?text=Sent+Scheduled+Message)
 
