@@ -47,10 +47,6 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 - Periodic job that handles message delivery with detailed logging
 
-### Internationalization
-
-- Localization updates for multilingual support
-
 ### Error Handling
 
 - Robust error handling across all scheduling and delivery operations
