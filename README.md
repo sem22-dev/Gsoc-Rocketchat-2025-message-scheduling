@@ -28,7 +28,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 ### Core Functionality
 
-- Schedule message functionality and UI components
+- Message scheduling logic and UI implemented
 - Cron job `sendScheduledMessages` reliably sends scheduled messages
 - Contextual bar UI for viewing, editing, and canceling scheduled messages
 
