@@ -106,7 +106,6 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 ### 🔧 Pending
 
-- More testing for edge cases
 - UX polish and additional scheduling options
 
 ---
