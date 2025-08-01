@@ -154,7 +154,7 @@ If you found this useful, consider giving this repo a ⭐ for good karma!
 
 ## 💬 Connect with Me
 
-| --- | --- |
+
 | **Student** | Thotsem Jajo |
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
 | **Project** | [Message Scheduling 2025](https://summerofcode.withgoogle.com/programs/2025/projects/NoRi8SdE) |
