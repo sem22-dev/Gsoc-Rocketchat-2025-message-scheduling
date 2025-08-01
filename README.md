@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## ✨ Implementing Native Message Scheduling in Rocket.Chat
+**Implement a native message scheduling feature for Rocket.Chat to enhance global collaboration.**
 
 This project introduces a native message scheduling feature in Rocket.Chat, empowering users to schedule messages for future delivery — especially useful for global teams spread across multiple time zones.
 
