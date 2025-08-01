@@ -89,11 +89,9 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 ### Demo Video
 
-![Full Cycle Demo Video](
 
 https://github.com/user-attachments/assets/b9ddce3e-71aa-490c-b177-452df02d933d
 
-)
 
 ---
 
