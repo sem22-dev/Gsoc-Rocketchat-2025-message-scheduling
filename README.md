@@ -75,8 +75,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 4. **API Success Payload**  
    Response payload from `chat.scheduleMessage` API.  
-   ![API Success Payload](https://github.com/user-attachments/assets/d008d2c1-336a-405c-9619-f6de7809ad05
-)
+     <img src="https://github.com/user-attachments/assets/d008d2c1-336a-405c-9619-f6de7809ad05" alt="Scheduled Messages User Menu Item" width="600"/>
 
 5. **Scheduled Messages User Menu Item**  
    Allows users to access the Scheduled Messages page directly from the user dropdown menu. 
