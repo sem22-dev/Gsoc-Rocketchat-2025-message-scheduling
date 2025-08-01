@@ -67,8 +67,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 2. **Schedule Composer Modal**  
    Lets users pick a date and time for message delivery.  
-   ![Schedule Composer Modal](https://github.com/user-attachments/assets/0bb594e9-f8ec-41ee-a438-15e857ce571d
-)
+   <img src="https://github.com/user-attachments/assets/0bb594e9-f8ec-41ee-a438-15e857ce571d" alt="Schedule Composer Modal" width="600"/>
 
 3. **Success Toast Notification**  
    Confirms successful scheduling.  
@@ -82,8 +81,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 5. **Scheduled Messages User Menu Item**  
    Allows users to access the Scheduled Messages page directly from the user dropdown menu. 
-   ![Scheduled Messages Page](https://github.com/user-attachments/assets/f10da54d-086e-4c96-8f66-f22131d79451
-)
+   <img src="https://github.com/user-attachments/assets/f10da54d-086e-4c96-8f66-f22131d79451" alt="Scheduled Messages User Menu Item" width="300"/>
 
 6. **Scheduled Messages Page**  
    Manage, edit, and cancel scheduled messages.  
