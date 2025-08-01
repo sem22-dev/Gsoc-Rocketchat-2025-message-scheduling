@@ -87,9 +87,13 @@ Rocket.Chat users across different time zones often need to deliver messages at 
    ![Sent Scheduled Message](https://github.com/user-attachments/assets/134c71d6-7d9f-4ebf-89c8-3b638e1d967e
 )
 
-### 🎬 Demo Video
+### Demo Video
 
-![Full Cycle Demo Video](https://via.placeholder.com/600x400.png?text=Full+Cycle+Demo+Video)
+![Full Cycle Demo Video](
+
+https://github.com/user-attachments/assets/b9ddce3e-71aa-490c-b177-452df02d933d
+
+)
 
 ---
 
