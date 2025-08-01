@@ -149,7 +149,7 @@ Huge thanks to my mentors for their support, timely reviews, and guidance throug
 
 ## 💖 Support
 
-If you found this useful, consider giving this repo a ⭐ for good karma!
+Give it a ⭐, make a dev smile.
 
 ---
 
