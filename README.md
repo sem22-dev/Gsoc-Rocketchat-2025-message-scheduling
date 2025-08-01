@@ -1,6 +1,6 @@
 # Google Summer of Code 2025 – Rocket.Chat
 
-<div className="bg-white">
+<div align="center">
   <a href="https://summerofcode.withgoogle.com/programs/2025/projects/NoRi8SdE">
     <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg" alt="Google Summer of Code">
   </a>
@@ -18,45 +18,42 @@ This repository serves as both the final report of my Google Summer of Code 2025
 
 Rocket.Chat users across different time zones often need to deliver messages at optimal times. This project implements a native message scheduling system that includes:
 
-- A UI-integrated message scheduler (with a clock icon beside the send button),
-- A backend cron job to deliver messages at the scheduled time,
-- A management interface to view, edit, or cancel scheduled messages.
+- A UI-integrated message scheduler
+- A backend cron job to deliver messages at the scheduled time
+- A management interface to view, edit, or cancel scheduled messages
 
 ---
 
-## 🚀 Deliverables
+## 🚢 Deliverables
 
-### ✅ Core Functionality
-- Schedule messages via a **clock icon** next to the send button.
-- Cron job `sendScheduledMessages` reliably sends scheduled messages.
-- Contextual bar UI for viewing, editing, and canceling scheduled messages.
+### Core Functionality
 
-### 🗃️ MongoDB
-- A `ScheduledMessages` collection to persist scheduled messages.
+- Schedule message functionality and UI components
+- Cron job `sendScheduledMessages` reliably sends scheduled messages
+- Contextual bar UI for viewing, editing, and canceling scheduled messages
 
-### 🔌 APIs
-- `chat.scheduleMessage`: Schedule a message.
-- `chat.getScheduledMessages`: Retrieve scheduled messages.
-- `chat.cancelScheduledMessage`: Cancel a scheduled message.
-- `chat.updateScheduledMessage`: Update a scheduled message.
+### MongoDB
 
-### 🧩 UI Components
-- `ScheduleComposerModal`: Select date and time for message delivery.
-- `ScheduledMessagesPage`: View all scheduled messages.
-- `DeleteScheduledMessageModal` & `EditScheduledMessageModal`: For managing scheduled messages.
+- A `ScheduledMessages` collection to persist scheduled messages
 
-### ⏲️ Cron Job
-- Periodic job that handles message delivery with detailed logging.
+### APIs
 
-### 🌍 Internationalization
-- Localization updates for multilingual support.
+- `chat.scheduleMessage`: Schedule a message
+- `chat.getScheduledMessages`: Retrieve scheduled messages
+- `chat.cancelScheduledMessage`: Cancel a scheduled message
+- `chat.updateScheduledMessage`: Update a scheduled message
 
-### ❗ Error Handling
-- Robust error handling across all scheduling and delivery operations.
+### Cron Job
 
-### 📚 Documentation & Testing
-- Unit tests for APIs and cron job.
-- Developer documentation for maintainability.
+- Periodic job that handles message delivery with detailed logging
+
+### Internationalization
+
+- Localization updates for multilingual support
+
+### Error Handling
+
+- Robust error handling across all scheduling and delivery operations
 
 ---
 
@@ -88,7 +85,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
    The scheduled message appears in the chat at the scheduled time.  
    ![Sent Scheduled Message](https://via.placeholder.com/600x400.png?text=Sent+Scheduled+Message)
 
-### 🎬 Full-Cycle Demo Video
+### 🎬 Demo Video
 
 ![Full Cycle Demo Video](https://via.placeholder.com/600x400.png?text=Full+Cycle+Demo+Video)
 
@@ -97,24 +94,27 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 ## 📈 Project Status
 
 ### ✅ Completed
-- Full scheduling flow (UI + API + DB) implemented and **merged upstream**.
-- Cron job and error handling are functional.
-- UI/UX is consistent with Rocket.Chat design.
 
-### 🔜 Not Implemented
-- **Thread Support**: Scheduling messages inside threads.
-- **Image Attachments**: Support for scheduling messages with image/file uploads.
+- Full scheduling flow (UI + API + DB) implemented and **merged upstream**
+- Cron job and error handling are functional
+- UI/UX is consistent with Rocket.Chat design
 
-### 📋 Pending
-- More testing for edge cases.
-- UX polish and additional scheduling options.
+### ❌ Not Implemented
+
+- **Thread Support**: Scheduling messages inside threads
+- **Image Attachments**: Support for scheduling messages with image/file uploads
+
+### 🔧 Pending
+
+- More testing for edge cases
+- UX polish and additional scheduling options
 
 ---
 
-## 🧠 Future Work
+## 🛠️ Future Work
 
-- **Thread Scheduling**: Enhance support to allow scheduled messages inside threads.
-- **Media Attachments**: Schedule messages with media (images, videos, files).
+- **Thread Scheduling**: Enhance support to allow scheduled messages inside threads
+- **Media Attachments**: Schedule messages with media (images, videos, files)
 
 ---
 
@@ -127,28 +127,21 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 | [#36291](https://github.com/RocketChat/Rocket.Chat/pull/36291) | feat: message scheduling |
 | [#36513](https://github.com/RocketChat/Rocket.Chat/pull/36513) | feat: add full scheduled messages management |
 
-👉 [View all PRs by me](https://github.com/RocketChat/Rocket.Chat/pulls?q=is%3Apr+author%3A[YourGitHubUsername])
-
-### 🌍 Other Contributions
-- Updated internationalization/localization files.
-- Participated in community discussions and reviewed PRs.
-
 ---
 
-## 👨‍🏫 Mentor
+## 👨‍🏫 Mentors
 
-Huge thanks to my mentor for their support, timely reviews, and guidance throughout the program.
+Huge thanks to my mentors for their support, timely reviews, and guidance throughout the program.
 
-- **[Mentor Name]** – [GitHub](#) | [LinkedIn](#) | [Twitter](#)
+- **Abhinav Kumar** – [GitHub](https://github.com/Abhinav-Kumar-Dev) | [Rocket.Chat](https://open.rocket.chat/direct/abhinav.kumar)
+- **Ricardo Garim** – [GitHub](https://github.com/ricardogarim) | [Rocket.Chat](https://open.rocket.chat/direct/ricardo.garim)
 
 ---
 
 ## 🔗 Useful Links
 
-- 📄 [Project Proposal](#)
-- 🎤 [GSoC Presentation](#)
-- 🎥 [Presentation Video](#)
-- 💻 [Rocket.Chat Repo](https://github.com/RocketChat/Rocket.Chat)
+- 📄 [Project Proposal](https://docs.google.com/document/d/1ODAdD0BKT3o8NvSaxx38VfGNjYDipjMpZv73FaXwv2k/edit?usp=sharing)  
+- 💻 [Rocket.Chat Repo](https://github.com/RocketChat/Rocket.Chat)  
 - 🌐 [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2025/projects/NoRi8SdE)
 
 ---
@@ -163,15 +156,14 @@ If you found this useful, consider giving this repo a ⭐ for good karma!
 
 | Field | Info |
 | --- | --- |
-| **Student** | [Your Name] |
+| **Student** | Thotsem Jajo |
 | **Organization** | [Rocket.Chat](https://rocket.chat/) |
-| **Project** | Message Scheduling 2025 |
-| **GitHub** | [@YourGitHubUsername](#) |
-| **LinkedIn** | [YourLinkedIn](#) |
-| **Twitter** | [YourTwitter](#) |
-| **Website** | [YourWebsite](#) |
-| **Email** | [YourEmail](#) |
-| **Rocket.Chat** | [YourRocketChatUsername](#) |
+| **Project** | [Message Scheduling 2025](https://summerofcode.withgoogle.com/programs/2025/projects/NoRi8SdE) |
+| **GitHub** | [sem22-dev](https://github.com/sem22-dev/) |
+| **LinkedIn** | [Thotsem Jajo](https://www.linkedin.com/in/thotsem-jajo-30909a244/) |
+| **Twitter** | [@Thotsem22](https://x.com/Thotsem22) |
+| **Email** | thotsemj@gmail.com |
+| **Rocket.Chat** | [sem.jajo](https://open.rocket.chat/direct/sem.jajo) |
 
 ---
 
