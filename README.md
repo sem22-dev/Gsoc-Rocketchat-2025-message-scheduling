@@ -67,32 +67,32 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 2. **Schedule Composer Modal**  
    Lets users pick a date and time for message delivery.  
-   ![Schedule Composer Modal](<img width="636" height="382" alt="Schedule Composer Modal" src="https://github.com/user-attachments/assets/0bb594e9-f8ec-41ee-a438-15e857ce571d" />
+   ![Schedule Composer Modal](https://github.com/user-attachments/assets/0bb594e9-f8ec-41ee-a438-15e857ce571d
 )
 
 3. **Success Toast Notification**  
    Confirms successful scheduling.  
-   ![Success Toast Notification](<img width="322" height="81" alt="Success Toast Notification" src="https://github.com/user-attachments/assets/c303a82a-f27b-4d82-81c7-60811a9d3667" />
+   ![Success Toast Notification](https://github.com/user-attachments/assets/c303a82a-f27b-4d82-81c7-60811a9d3667
 )
 
 4. **API Success Payload**  
    Response payload from `chat.scheduleMessage` API.  
-   ![API Success Payload](<img width="699" height="269" alt="API Success Payload" src="https://github.com/user-attachments/assets/d008d2c1-336a-405c-9619-f6de7809ad05" />
+   ![API Success Payload](https://github.com/user-attachments/assets/d008d2c1-336a-405c-9619-f6de7809ad05
 )
 
 5. **Scheduled Messages User Menu Item**  
    Allows users to access the Scheduled Messages page directly from the user dropdown menu. 
-   ![Scheduled Messages Page](<img width="249" height="455" alt="Scheduled Messages User Menu Item" src="https://github.com/user-attachments/assets/f10da54d-086e-4c96-8f66-f22131d79451" />
+   ![Scheduled Messages Page](https://github.com/user-attachments/assets/f10da54d-086e-4c96-8f66-f22131d79451
 )
 
 6. **Scheduled Messages Page**  
    Manage, edit, and cancel scheduled messages.  
-   ![Scheduled Messages Page](<img width="1678" height="609" alt="Scheduled Messages Page" src="https://github.com/user-attachments/assets/09cfe891-b689-4d88-af8e-689aa2bb019d" />
+   ![Scheduled Messages Page](https://github.com/user-attachments/assets/09cfe891-b689-4d88-af8e-689aa2bb019d
 )
 
 7. **Delivered Message**  
    The scheduled message appears in the chat at the scheduled time.  
-   ![Sent Scheduled Message](<img width="1353" height="818" alt="Delivered Message" src="https://github.com/user-attachments/assets/134c71d6-7d9f-4ebf-89c8-3b638e1d967e" />
+   ![Sent Scheduled Message](https://github.com/user-attachments/assets/134c71d6-7d9f-4ebf-89c8-3b638e1d967e
 )
 
 ### 🎬 Demo Video
