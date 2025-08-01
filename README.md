@@ -63,8 +63,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 1. **Scheduling Button (Clock Icon)**  
    Located next to the send button in the message composer.  
-   ![Scheduling Button](<img width="923" height="111" alt="Scheduling Button (Clock Icon)" src="https://github.com/user-attachments/assets/342b5f1a-3bc0-466a-8c3f-cfba1ee3955b" />
-)
+   ![Scheduling Button](https://github.com/user-attachments/assets/342b5f1a-3bc0-466a-8c3f-cfba1ee3955b)
 
 2. **Schedule Composer Modal**  
    Lets users pick a date and time for message delivery.  
