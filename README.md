@@ -71,7 +71,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 
 3. **Success Toast Notification**  
    Confirms successful scheduling.  
-    <img src="https://github.com/user-attachments/assets/c303a82a-f27b-4d82-81c7-60811a9d3667" alt="Scheduled Messages User Menu Item" width="300"/>
+    <img src="https://github.com/user-attachments/assets/c303a82a-f27b-4d82-81c7-60811a9d3667" alt="Scheduled Messages User Menu Item" width="600"/>
 
 4. **API Success Payload**  
    Response payload from `chat.scheduleMessage` API.  
