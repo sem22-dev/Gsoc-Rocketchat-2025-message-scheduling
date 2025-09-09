@@ -102,6 +102,7 @@ https://github.com/user-attachments/assets/b9ddce3e-71aa-490c-b177-452df02d933d
 
 - Full scheduling flow (UI + API + DB) implemented and **merged upstream**
 - Cron job and error handling are functional
+- Thread scheduling support successfully implemented
 - UI/UX is consistent with Rocket.Chat design
 
 ###  Not Implemented
