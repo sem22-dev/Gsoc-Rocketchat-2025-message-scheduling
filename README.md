@@ -21,6 +21,7 @@ Rocket.Chat users across different time zones often need to deliver messages at 
 - A UI-integrated message scheduler
 - A backend cron job to deliver messages at the scheduled time
 - A management interface to view, edit, or cancel scheduled messages
+- Thread support for scheduled messages, ensuring seamless integration with threaded conversations
 
 ---
 
@@ -105,7 +106,6 @@ https://github.com/user-attachments/assets/b9ddce3e-71aa-490c-b177-452df02d933d
 
 ###  Not Implemented
 
-- **Thread Support**: Scheduling messages inside threads
 - **Image Attachments**: Support for scheduling messages with image/file uploads
 
 ### 🔧 Enhancements
